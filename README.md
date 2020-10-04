@@ -21,6 +21,7 @@ A collection of websites and tools that I find useful in my life.
 * [**Flaticon Pattern Generator**](https://www.flaticon.com/pattern/) - Simple pattern generator
 * [**Hero Patterns**](https://www.heropatterns.com/) - Color-independent SVG background patterns
 * [**IPVoid**](https://www.ipvoid.com/) - Several IP address and networkd tools that might be useful
+* [**VirusTotal**](https://www.virustotal.com/gui/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
 
 
 <!--
