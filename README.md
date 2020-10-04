@@ -22,10 +22,15 @@ A collection of websites and tools that I find useful in my life.
 * [**Hero Patterns**](https://www.heropatterns.com/) - Color-independent SVG background patterns
 * [**IPVoid**](https://www.ipvoid.com/) - Several IP address and networkd tools that might be useful
 * [**VirusTotal**](https://www.virustotal.com/gui/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
+* [**Slant**](https://www.slant.co/) - Find what is best for *context* 
+* [**AlternativeTo**](https://alternativeto.net/) - Find free alternatives of paid applications
 
 
 <!--
 **jaw3l/jaw3l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Template:
+* [****]() -
 
 Here are some ideas to get you started:
 
