@@ -1,5 +1,3 @@
-### Hello there 👋
-
 ## Useful Tools
 A collection of websites and tools that I find useful in my life.
 
