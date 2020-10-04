@@ -24,6 +24,8 @@ A collection of websites and tools that I find useful in my life.
 * [**VirusTotal**](https://www.virustotal.com/gui/) - Analyze suspicious files and URLs to detect types of malware, automatically share them with the security community
 * [**Slant**](https://www.slant.co/) - Find what is best for *context* 
 * [**AlternativeTo**](https://alternativeto.net/) - Find free alternatives of paid applications
+* [**ConvertCase**](https://convertcase.net/) - A very handy online text tool where you can transform your text.
+
 
 
 <!--
