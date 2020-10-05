@@ -24,6 +24,10 @@ A collection of websites and tools that I find useful in my life.
 * [**AlternativeTo**](https://alternativeto.net/) - Find free alternatives of paid applications
 * [**ConvertCase**](https://convertcase.net/) - A very handy online text tool where you can transform your text.
 
+### Shortcuts
+
+* [**VSCode Shortcuts**](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf) - Visual Studio Code keyboard shortcuts for Windows
+
 
 
 <!--
